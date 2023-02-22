@@ -1,8 +1,8 @@
-
-
 train: ../VOCdevkit/images/
 val: ../VOCdevkit/images/
 
-nc: 2
+nc: 9
 
-names: ["target", "hat"]
+# names: ["target", "hat"]
+names:
+  ["user", "pl", "door", "target", "jb", "bossdoor", "boss", "over", "again"]

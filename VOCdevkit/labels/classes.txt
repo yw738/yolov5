@@ -1,3 +1,9 @@
 user
-men
-money
+pl
+door
+target
+jb
+bossdoor
+boss
+over
+again
