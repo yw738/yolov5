@@ -1,4 +1,6 @@
 
+## 训练模型的 yolov5
+
 # 注：
 # * 不要开vpn
 # * 用anaconda 运行命令
@@ -42,36 +44,36 @@
 # python -m pip install --upgrade pip
 
 # 缺少yaml
-# pip install PyYAML
+ pip install PyYAML
 
 # 缺少tqdm
-# conda install tqdm
+ conda install tqdm
 
 # No module named 'cv2'
-# conda install opencv
+ conda install opencv
 
 # No module named 'pandas'
-# conda install pandas
+ conda install pandas
 
 # No module named 'IPython'
-# conda install ipython
+ conda install ipython
 
 # No module named 'psutil'
-# conda install psutil
+ conda install psutil
 
 # No module named 'matplotlib'
-# conda install matplotlib
+ conda install matplotlib
 
 # No module named 'seaborn'
-# conda install seaborn
+ conda install seaborn
 
 # No module named 'tensorboard'
-# conda install tb-nightly
+conda install tb-nightly
 # conda install tensorboard
 
 # 报错
 # *** WARNING: Ignore distutils configs in setup.cfg due to encoding errors.
-# https://blog.csdn.net/weixin_37989267/article/details/128326603
+https://blog.csdn.net/weixin_37989267/article/details/128326603
 
 
 
