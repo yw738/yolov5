@@ -35,7 +35,7 @@ print(cv.__version__)
 # python train.py --img 640 --batch 16 --epochs 3 --data coco128.yaml --weights yolov5s.pt
 
 # 测试
-# python detect.py --weights weights/best.pt --img 640 --conf 0.55 --source VOCdevkit/images/QQ截图20230221220806.png
+# python detect.py --weights weights/best.pt --img 640 --conf 0.55 --source VOCdevkit/images/QQ截图20230327122826.png
 
 
 
